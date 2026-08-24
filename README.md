@@ -32,7 +32,7 @@ so you get organizational and technical DevOps.
 - **GitHub:** [github.com/Strukturpiloten](https://github.com/Strukturpiloten)
 - **Website:** [strukturpiloten.de](https://www.strukturpiloten.de/)
 
-## Commercial container support 🤝
+## Commercial support 🤝
 
 Need help with containerization beyond a README or issue tracker?
 
@@ -43,6 +43,8 @@ Through Strukturpiloten, I provide **commercial support and consulting** for:
 - OCI image design, build pipelines, and registries
 - migrations, compatibility analysis, and troubleshooting
 - reproducible deployments, CI/CD, documentation, and handover
+- IT project management
+- organizational and technical DevOps
 
 If your team needs practical help designing, reviewing, or stabilizing a container setup, feel free
 to [get in touch with Strukturpiloten](https://www.strukturpiloten.de/).
